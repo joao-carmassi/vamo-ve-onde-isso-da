@@ -1,0 +1,150 @@
+{
+    "cardapio": [
+        {
+            "lanches": [
+                {
+                    "id": 1,
+                    "nome": "X-Bacon",
+                    "descricao": "Pão, bacon, hambúrguer, queijo, alface, tomate, maionese.",
+                    "preco": "15,99",
+                    "imagem": "https://i.ibb.co/WW4qcnk/hamburguer.jpg",
+                    "categoria": "lanches"
+                },
+                {
+                    "id": 2,
+                    "nome": "Hamburguer Simples",
+                    "descricao": "Pão, hambúrguer, queijo, alface, tomate, maionese.",
+                    "preco": "10,50",
+                    "imagem": "https://i.ibb.co/WW4qcnk/hamburguer.jpg",
+                    "categoria": "lanches"
+                },
+                {
+                    "id": 3,
+                    "nome": "Cheeseburger Duplo",
+                    "descricao": "Pão, dois hambúrgueres, queijo, alface, tomate, maionese, ketchup.",
+                    "preco": "18,75",
+                    "imagem": "https://i.ibb.co/WW4qcnk/hamburguer.jpg",
+                    "categoria": "lanches"
+                },
+                {
+                    "id": 4,
+                    "nome": "Sanduíche de Frango",
+                    "descricao": "Pão, filé de frango, queijo, alface, tomate, maionese.",
+                    "preco": "12,25",
+                    "imagem": "https://i.ibb.co/WW4qcnk/hamburguer.jpg",
+                    "categoria": "lanches"
+                },
+                {
+                    "id": 5,
+                    "nome": "Hot Dog",
+                    "descricao": "Pão de hot dog, salsicha, molho de tomate, mostarda, ketchup, batata palha.",
+                    "preco": "8,99",
+                    "imagem": "https://i.ibb.co/WW4qcnk/hamburguer.jpg",
+                    "categoria": "lanches"
+                }
+            ],
+            "acompanhamentos": [
+                {
+                    "id": 1,
+                    "nome": "Batata Frita",
+                    "descricao": "Batata, queijo e sal.",
+                    "preco": "8,99",
+                    "imagem": "https://i.ibb.co/d6Fhqr0/porcao-De-Batata.jpg",
+                    "categoria": "acompanhamentos"
+                },
+                {
+                    "id": 2,
+                    "nome": "Onion Rings",
+                    "descricao": "Cebola, farinha de trigo, ovo, óleo, sal.",
+                    "preco": "9,50",
+                    "imagem": "https://i.ibb.co/d6Fhqr0/porcao-De-Batata.jpg",
+                    "categoria": "acompanhamentos"
+                },
+                {
+                    "id": 3,
+                    "nome": "Nuggets de Frango",
+                    "descricao": "Peito de frango, farinha de rosca, ovo, sal, pimenta.",
+                    "preco": "10,75",
+                    "imagem": "https://i.ibb.co/d6Fhqr0/porcao-De-Batata.jpg",
+                    "categoria": "acompanhamentos"
+                },
+                {
+                    "id": 4,
+                    "nome": "Bruschetta",
+                    "descricao": "Pão italiano, tomate, manjericão, alho, azeite, sal, queijo parmesão.",
+                    "preco": "12,99",
+                    "imagem": "https://i.ibb.co/d6Fhqr0/porcao-De-Batata.jpg",
+                    "categoria": "acompanhamentos"
+                }
+            ],
+            "bebidas": [
+                {
+                    "id": 1,
+                    "nome": "Refrigerante",
+                    "descricao": "Água, açúcar, aromatizantes, acidulante, conservante.",
+                    "preco": "5,99",
+                    "imagem": "https://i.ibb.co/4YsQTpf/Lata-De-Coca.jpg",
+                    "categoria": "bebidas"
+                },
+                {
+                    "id": 2,
+                    "nome": "Suco Natural",
+                    "descricao": "Frutas da estação.",
+                    "preco": "7,50",
+                    "imagem": "https://i.ibb.co/4YsQTpf/Lata-De-Coca.jpg",
+                    "categoria": "bebidas"
+                },
+                {
+                    "id": 3,
+                    "nome": "Água Mineral",
+                    "descricao": "Água.",
+                    "preco": "3,99",
+                    "imagem": "https://i.ibb.co/4YsQTpf/Lata-De-Coca.jpg",
+                    "categoria": "bebidas"
+                },
+                {
+                    "id": 4,
+                    "nome": "Milkshake",
+                    "descricao": "Leite, sorvete, calda.",
+                    "preco": "9,99",
+                    "imagem": "https://i.ibb.co/4YsQTpf/Lata-De-Coca.jpg",
+                    "categoria": "bebidas"
+                }
+            ],
+            "coxinha": [
+                {
+                    "id": 1,
+                    "nome": "Coxinha de frango",
+                    "descricao": "Coxa e frango.",
+                    "preco": "5,99",
+                    "imagem": "https://panattos.com.br/uploads/produtos/2017/03/coxinha-de-frango-com-requeijao-mini-congelada.jpg",
+                    "categoria": "coxinha"
+                },
+                {
+                    "id": 2,
+                    "nome": "Quibixinha (Willian)",
+                    "descricao": "Quibi com recheio de coxinha.",
+                    "preco": "7,50",
+                    "imagem": "https://panattos.com.br/uploads/produtos/2017/03/coxinha-de-frango-com-requeijao-mini-congelada.jpg",
+                    "categoria": "coxinha"
+                },
+                {
+                    "id": 3,
+                    "nome": "Coxinha vegana",
+                    "descricao": "É uma coxinha que vem com uma vegana.",
+                    "preco": "3,99",
+                    "imagem": "https://panattos.com.br/uploads/produtos/2017/03/coxinha-de-frango-com-requeijao-mini-congelada.jpg",
+                    "categoria": "coxinha"
+                },
+                {
+                    "id": 4,
+                    "nome": "Coxinha vegetariana",
+                    "descricao": "Bem intuitivo axo eu.",
+                    "preco": "9,99",
+                    "imagem": "https://panattos.com.br/uploads/produtos/2017/03/coxinha-de-frango-com-requeijao-mini-congelada.jpg",
+                    "categoria": "coxinha"
+                }
+            ]
+        }
+    ]
+}
